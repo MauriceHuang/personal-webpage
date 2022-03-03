@@ -3,6 +3,7 @@ import { Transition } from "@headlessui/react"; //for smooth transition b/w elem
 import { Link } from "react-scroll"; // for smooth scroll throughout the page
 import Navbar from "../components/Navbar";
 import HomePage from "./homePage";
+import Services from "./services";
 export default function Home() {
   return (
     <div>
@@ -11,6 +12,7 @@ export default function Home() {
       </Head>
       <Navbar />
       <HomePage />
+      <Services />
     </div>
   );
 }
