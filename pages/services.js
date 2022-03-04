@@ -41,6 +41,36 @@ function Services() {
             </p>
           </div>
         </div>
+
+        {/* second section */}
+        <div className="flex justify-items-start items-center mx-40 gap-10 mt-20">
+          <div className="flex flex-col justify-center items-center">
+            {/* Third Block */}
+            <div className="flex justify-center items-center cursor-pointer">
+              <AiOutlineBlock className="w-10 h-10 bg-green-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
+              <h2 className="text-xl text-indigo-600 font-semi-bold">
+                Motion & Animation
+              </h2>
+            </div>
+            <p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
+              Quis mollit sit fugiat laborum Lorem irure sunt nulla magna et
+              deserunt consectetur tempor irure.
+            </p>
+          </div>
+          <div className="flex flex-col justify-center items-center">
+            {/* Fourth Block */}
+            <div className="flex justify-center items-center cursor-pointer">
+              <MdDeveloperBoard className="w-10 h-10 bg-blue-400 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
+              <h2 className="text-xl text-indigo-600 font-semi-bold">
+                Design & Development
+              </h2>
+            </div>
+            <p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
+              Quis mollit sit fugiat laborum Lorem irure sunt nulla magna et
+              deserunt consectetur tempor irure.
+            </p>
+          </div>
+        </div>
       </div>
     </Element>
   );
