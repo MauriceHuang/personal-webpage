@@ -4,6 +4,7 @@ import { Link } from "react-scroll"; // for smooth scroll throughout the page
 import Navbar from "../components/Navbar";
 import HomePage from "./homePage";
 import Services from "./services";
+import Work from "./work";
 export default function Home() {
   return (
     <div>
@@ -13,6 +14,7 @@ export default function Home() {
       <Navbar />
       <HomePage />
       <Services />
+      <Work />
     </div>
   );
 }
