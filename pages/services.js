@@ -22,7 +22,7 @@ function Services() {
                 Strategy & Direction
               </h2>
             </div>
-            <p className="md:text-base text-gray-400 md-text-center sm:text-left sm:text-sm">
+            <p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
               Quis mollit sit fugiat laborum Lorem irure sunt nulla magna et
               deserunt consectetur tempor irure.
             </p>
@@ -35,7 +35,7 @@ function Services() {
                 Branding & Logo
               </h2>
             </div>
-            <p className="md:text-base text-gray-400 md-text-center sm:text-left sm:text-sm">
+            <p className="md:text-base text-gray-400 md:text-center sm:text-left sm:text-sm">
               Quis mollit sit fugiat laborum Lorem irure sunt nulla magna et
               deserunt consectetur tempor irure.
             </p>
