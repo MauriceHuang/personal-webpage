@@ -6,7 +6,7 @@ import { FaDropbox } from "react-icons/fa";
 import { FaMicrosoft } from "react-icons/fa";
 function Clients() {
   return (
-    <Element id="Clients" name="Clients">
+    <Element id="clients" name="clients">
       <div>
         <div className="w-full my-20 h-auto flex flex-col justfy-center items-center">
           <p className="text-sm uppercase text-gray-400">Clients</p>
